@@ -5,15 +5,17 @@ Project ini adalah contoh sederhana API dari ID3 yang menggunakan javascript, di
 
 ## Project Master
 Project ini dikembangkan dari :
-* [Serendipious](https://github.com/serendipious/nodejs-decision-tree-id3) - Nodejs-Decision-Tree-ID3
-"Dengan merubah sedikit struktur fungsi dan perhitungan pada Log2".
+* [**Serendipious**](https://github.com/serendipious/nodejs-decision-tree-id3) - Nodejs-Decision-Tree-ID3
+
+*Dengan merubah sedikit struktur fungsi dan perhitungan pada Log2*.
 
 ## Requirement
--NodeJS
--Nodemon (opsional)
--ExpressJS
--Lodash V.4
-(untuk express dan Lodash akan terinstall ketika anda melakukan instalasi langkah berikutnya).
+* NodeJS
+* Nodemon (opsional)
+* ExpressJS
+* Lodash V.4
+
+*(untuk express dan Lodash akan terinstall ketika anda melakukan instalasi langkah berikutnya)*.
 
 ## Install
 Lakukan instalasi dependency setelah melakukan clone repository
